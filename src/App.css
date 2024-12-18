@@ -1,0 +1,14 @@
+.todo-container h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px; /*Blank space around all sides of the heading*/
+  margin-bottom: 30px; /*Blank space below the heading*/
+}
+
+.todo-container input{
+  width: 100%;
+}
+
+.items-container{
+  text-align: left;
+}
